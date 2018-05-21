@@ -1,6 +1,6 @@
 ## mosquitto-test
 
-small script to test (mosquitto)[https://github.com/eclipse/mosquitto] MQTT serivce using nodejs (mqtt)[https://github.com/mqttjs/MQTT.js/] library
+small script to test [mosquitto](https://github.com/eclipse/mosquitto) MQTT serivce using nodejs [mqtt](https://github.com/mqttjs/MQTT.js) library
 
 ### Usage:
 
