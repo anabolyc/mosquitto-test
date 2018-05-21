@@ -1,0 +1,12 @@
+{
+  "name": "mosquitto-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publisher.js",
+  "scripts": {
+    "subscribe": "nodejs subscriber.js mqtt://192.168.1.80 /hello/world",
+    "publish": "nodejs publisher.js mqtt://192.168.1.80 /hello/world 100000"
+  },
+  "author": "",
+  "license": "ISC"
+}
